@@ -17,7 +17,7 @@ This web service provides RESTful APIs for querying and purchasing flight ticket
 
 ## ER Model
 
-For a visual representation of the underlying data structure, refer to the [ER Model](https://github.com/DenginDkn/DenginAPI/blob/main/ER%20Diagram%20API.png).
+For a visual representation of the underlying data structure, refer to the [ER Model](https://github.com/DenginDkn/DenginAPI/blob/main/ER_Diagram_API.PNG).
 
 ## API Endpoints
 
