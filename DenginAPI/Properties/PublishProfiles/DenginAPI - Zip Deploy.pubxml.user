@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAJTgsZycqPka2wnnkFTQybgAAAAACAAAAAAAQZgAAAAEAACAAAABqj7/UY+VQs7Udd2/0zPWnYAcxX6jZRfB0y0rsuYGfAgAAAAAOgAAAAAIAACAAAAC1ZhUpxoGjpPhe6X+hQFpS6qmk3G+BwnwObLelO7IqXSAAAAADtk/X6YR1zQn8kIXqQ8MDXcWy+tq9TKf4CBpak959dkAAAADTbJ/f1zT8y/Klf7lqe+lpXoKiaABbdLC39rRX6i4XQ/c3lYabzRj5zMtMmjrKf4bXhkYxymH8uKPO0Je3toiX</EncryptedPassword>
+    <History>False|2023-11-27T18:40:41.2253504Z;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>

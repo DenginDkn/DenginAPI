@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DenginAPI", "DenginAPI\DenginAPI.csproj", "{A6AB9513-4DA1-4C36-94FE-F71374CEA045}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A6AB9513-4DA1-4C36-94FE-F71374CEA045}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6AB9513-4DA1-4C36-94FE-F71374CEA045}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6AB9513-4DA1-4C36-94FE-F71374CEA045}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6AB9513-4DA1-4C36-94FE-F71374CEA045}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5F7A784F-90A2-419F-9F51-7CCADE629AD9}
+	EndGlobalSection
+EndGlobal
