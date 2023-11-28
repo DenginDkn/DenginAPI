@@ -22,9 +22,6 @@ For a visual representation of the underlying data structure, refer to the [ER M
 ## API Endpoints
 
 ### QUERY TICKET
-
-Endpoint: `/api/query_ticket`
-
 #### Request
 - Method: `GET`
 - Parameters:
@@ -39,9 +36,6 @@ Endpoint: `/api/query_ticket`
 - Supports paging with metadata in the response.
 
 ### BUY TICKET
-
-Endpoint: `/api/buy_ticket`
-
 #### Request
 - Method: `POST`
 - Parameters:
